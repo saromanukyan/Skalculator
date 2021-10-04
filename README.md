@@ -1,5 +1,5 @@
-# Guess The Movie
-Quiz game. Guess the movie by frame (work in progress).
+# Calculator
+
 <br>
 <p align="center">
 <img src="assets/c01.png"/> <br>
